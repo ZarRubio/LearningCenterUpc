@@ -1,0 +1,12 @@
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\bin\Debug\net5.0\LearningCenter.Infraestructure.deps.json
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\bin\Debug\net5.0\LearningCenter.Infraestructure.dll
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\bin\Debug\net5.0\ref\LearningCenter.Infraestructure.dll
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\bin\Debug\net5.0\LearningCenter.Infraestructure.pdb
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\obj\Debug\net5.0\LearningCenter.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\obj\Debug\net5.0\LearningCenter.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\obj\Debug\net5.0\LearningCenter.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\obj\Debug\net5.0\LearningCenter.Infraestructure.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\obj\Debug\net5.0\LearningCenter.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\obj\Debug\net5.0\LearningCenter.Infraestructure.dll
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\obj\Debug\net5.0\ref\LearningCenter.Infraestructure.dll
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Infraestructure\obj\Debug\net5.0\LearningCenter.Infraestructure.pdb
