@@ -1,20 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
+using LearningCenter.Infraestructure;
 
 namespace LearningCenter.Domain
 {
     public class CategoryDomain : ICategoryDomain
 
     {
+        private ICategoryRepository _categoryRepository;
 
+        public CategoryDomain(ICategoryRepository categoryRepository)
+
+        {
+
+            _categoryRepository = categoryRepository;
+
+        }
 
 
         public List<string> getAll()
 
         {
 
-            throw new NotImplementedException();
-
+            return _categoryRepository.getAll();
         }
 
 
@@ -23,7 +31,7 @@ namespace LearningCenter.Domain
 
         {
 
-            return "body from Domain " + id.ToString();
+            return "body from Domain  " + id.ToString();
 
         }
 

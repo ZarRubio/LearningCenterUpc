@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using LearningCenter.Domain;
+using LearningCenter.Infraestructure;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,6 +34,7 @@ namespace LearningCenter.API
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "LearningCenter.API", Version = "v1" });
             });
             services.AddScoped<ICategoryDomain,CategoryDomain>();
+            services.AddScoped<ICategoryRepository,CategoryRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

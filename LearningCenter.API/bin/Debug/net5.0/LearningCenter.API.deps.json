@@ -1638,6 +1638,9 @@
         }
       },
       "LearningCenter.Domain/1.0.0": {
+        "dependencies": {
+          "LearningCenter.Infraestructure": "1.0.0"
+        },
         "runtime": {
           "LearningCenter.Domain.dll": {}
         },

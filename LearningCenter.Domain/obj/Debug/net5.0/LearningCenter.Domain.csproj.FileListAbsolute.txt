@@ -2,11 +2,14 @@ C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\bin\Debug\ne
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\bin\Debug\net5.0\LearningCenter.Domain.dll
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\bin\Debug\net5.0\ref\LearningCenter.Domain.dll
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\bin\Debug\net5.0\LearningCenter.Domain.pdb
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\bin\Debug\net5.0\LearningCenter.Infraestructure.dll
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\bin\Debug\net5.0\LearningCenter.Infraestructure.pdb
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\LearningCenter.Domain.csproj.AssemblyReference.cache
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\LearningCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\LearningCenter.Domain.AssemblyInfoInputs.cache
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\LearningCenter.Domain.AssemblyInfo.cs
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\LearningCenter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\LearningCenter.Domain.csproj.CopyComplete
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\LearningCenter.Domain.dll
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\ref\LearningCenter.Domain.dll
 C:\Users\USER\RiderProjects\LearningCenterUpc\LearningCenter.Domain\obj\Debug\net5.0\LearningCenter.Domain.pdb

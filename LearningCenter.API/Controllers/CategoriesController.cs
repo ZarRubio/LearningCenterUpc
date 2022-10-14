@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+
 using System.Threading.Tasks;
 using LearningCenter.Domain;
 using Microsoft.AspNetCore.Http;
@@ -28,7 +29,8 @@ namespace LearningCenter.API
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            var result = _categoryDomain.getAll();
+            return result;
         }
 
         // GET: api/Categories/5
