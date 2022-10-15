@@ -3,7 +3,6 @@ using Microsoft.EntityFrameworkCore;
 
 namespace LearningCenter.Infraestructure.Context;
 
-
 public class LearningCenterDB : DbContext
 {
     public DbSet<Category> Categories { get; set; }  
@@ -14,14 +13,12 @@ public class LearningCenterDB : DbContext
 
     {
         builder.Entity<Category>().ToTable("Categories");
+        
+        builder.Entity<Category>().HasKey(p => p.id);
 
+        builder.Entity<Category>().Property(p => p.id).IsRequired().ValueGeneratedOnAdd();
 
-
-        builder.Entity<Category>().HasKey(p => p.Id);
-
-        builder.Entity<Category>().Property(p => p.Id).IsRequired().ValueGeneratedOnAdd();
-
-        builder.Entity<Category>().Property(c => c.Name).IsRequired().HasMaxLength(60);
+        builder.Entity<Category>().Property(c => c.name).IsRequired().HasMaxLength(60);
 
         builder.Entity<Category>().Property(c => c.DateCreted).IsRequired().HasDefaultValue(DateTime.Now);
 
@@ -29,12 +26,12 @@ public class LearningCenterDB : DbContext
    
         builder.Entity<Tutorial>().ToTable("Tutorials");
 
-        builder.Entity<Tutorial>().HasKey(p => p.Id);
+        builder.Entity<Tutorial>().HasKey(p => p.id);
 
 
 
         builder.Entity<User>().ToTable("Users");
 
-        builder.Entity<User>().HasKey(p => p.Id);
+        builder.Entity<User>().HasKey(p => p.id);
     }
 }

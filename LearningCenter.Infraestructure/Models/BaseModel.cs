@@ -2,7 +2,7 @@
 
 namespace LearningCenter.Infraestructure;
 
-public class BaseModel
+public abstract  class BaseModel
 {
     public DateTime DateCreted { get; set; }
     public DateTime DateUpdated { get; set; }

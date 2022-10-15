@@ -3,7 +3,7 @@ using System.Dynamic;
 
 namespace LearningCenter.Infraestructure
 {
-    public class Category
+    public class Category:BaseModel
     {
         public int id{get; set; }
         public string name {get; set; }
